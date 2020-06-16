@@ -46,7 +46,6 @@ class Scraper
       end
     end
     
-    # binding.pry
     student_profile_hash
 
   end
